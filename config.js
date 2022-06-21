@@ -8,19 +8,19 @@ global.APIs = {
 
 // Apikey Website Api
 global.APIKeys = {
-	'https://zenzapi.xyz': 'Your Key',
+	'https://zenzapi.xyz': 'bbbff852340d',
 }
 
 // Other
-global.owner = ['6281252848955']
+global.owner = ['6288287037007']
 global.premium = ['0']
-global.ownername = 'Zetaa'
+global.ownername = 'ZIO'
 global.botname = 'Zets Public'
 global.packname = '© ZETS - MULTI DEVICE'
-global.gc = 'https://bit.ly/3KMlmv2'
-global.linkyt = 'https://youtube.com/channel/UC9Si3U0o9dGS9MDfJR5iF6Q'
-global.linkgc = 'https://chat.whatsapp.com/DwP6uHYBWBc6TBSsNJrzwN'
-global.limitawal = '100'
+global.gc = '-'
+global.linkyt = 'https://youtube.com/channel/WindahBasudara'
+global.linkgc = 'https://chat.whatsapp.com/FFLujlBn95HBuBeyPzUe4G'
+global.limitawal = '1000'
 global.author = '@naando.jpeg\n@alya.xzy'
 global.sessionName = 'sessionya'
 global.prefa = ['','!','.','🐦','🐤','🗿']
@@ -38,7 +38,7 @@ global.mess = {
 }
 global.limitawal = {
     premium: "Infinity",
-    free: 100
+    free: 1000
 }
 global.sc = fs.readFileSync('./media/sc.jpg')
 global.tq = fs.readFileSync('./media/tq.jpg')
